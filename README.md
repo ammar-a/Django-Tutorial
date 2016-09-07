@@ -8,4 +8,4 @@ $ python manage.py runserver
 
 The server should now be up!
 
-Go to <a>http://localhost:8000/polls/</a> to checkout the simple voting app built with Django!
+Go to <a href="http://localhost:8000/polls/">http://localhost:8000/polls/</a> to checkout the simple voting app built with Django!
